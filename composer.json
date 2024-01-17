@@ -1,5 +1,5 @@
 {
-    "name": "asm/php-ansible",
+    "name": "ibf/php-ansible",
     "description": "A PHP wrapper for Ansible.",
     "keywords": [
         "php",
